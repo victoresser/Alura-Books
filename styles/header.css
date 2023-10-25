@@ -139,4 +139,8 @@
         margin-right: auto;
         margin-left: 2%;
     }
+
+    .container__link__tablet {
+        display: none;
+    }
 }
